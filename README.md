@@ -52,3 +52,7 @@ Learn Git and Github
 ### git push -u origin main =
   ارسال اخر تعديلات علي السيرفر لك وارسال تعديلاتك
 ### Edit in Browser
+### git config alias.?? اسم الخاصية  = 
+  يمكنك عمل اختصار لتسهيل الكتابة
+### git config alias.?? =
+  يكشف عن اسم الخاصية من الاختصار
