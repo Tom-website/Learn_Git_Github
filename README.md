@@ -47,3 +47,7 @@ Learn Git and Github
   يكشف كودا الملف الامني
 ### ssh -T git@github.com =
   يفتح وسالك علي الرمز لفتح الملف
+### git remote add origin git@github.com:Tom-webside/test.git =
+  رابط الملف بل السيرفر بعدا انشاء الملفات
+### git push -u origin main =
+  ارسال اخر تعديلات علي السيرفر لك وارسال تعديلاتك
